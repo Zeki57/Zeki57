@@ -1,0 +1,46 @@
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    background-color: red;
+    width: 300px;
+    height: 300px;
+}
+
+.container{
+    display:flex;
+    justify-content: space-between;
+}
+
+.inner{
+    border-style: solid;
+    width: 40px;
+    height:40px;
+}
+
+.lower{
+    background-color: blue;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    height: 250px;
+    width: 250px;
+}
+
+.smaller1{
+    border-style: solid;
+    width: 40px;
+    height: 40px;
+    background-color: black;
+}
+
+.smaller2{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    bottom: 0%;
+    left: -10px;
+}
+

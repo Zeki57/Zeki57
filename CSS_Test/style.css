@@ -1,0 +1,66 @@
+.container1{
+    background-color: yellow;
+    height: 250px;
+    width: 1700px;
+    display: flex;
+    align-items: center;
+}
+.divm{
+    height: 100px;
+    width: 250px;
+    display: flex;
+}
+
+.boxgreen{
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+    position: relative;
+    left: 1000px;
+    display: flex;
+    margin-left: 0px;
+    border-style: solid;
+}
+
+.container2{
+    background-color: turquoise;
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-style: solid;
+}
+
+.boxorange{
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    border-style: solid;
+}
+
+.boxpink{
+    background-color: pink;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    border-style: solid;
+}
+
+h1{
+    font-size: 25px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.lu{
+    font-size: 25px;
+    margin-left: 20px;
+    margin-top: 20px;
+}

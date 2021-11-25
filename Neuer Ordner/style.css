@@ -1,0 +1,9 @@
+.container{
+    background-color: red;
+    width: 250px;
+    height: 350px;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+}
+
